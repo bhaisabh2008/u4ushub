@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="52%" stop-color="#0369a1"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="rimGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="fourGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <!-- Squircle Icon Base -->
+  <rect x="16" y="16" width="480" height="480" rx="116" fill="url(#bgGrad)"/>
+  <rect x="22" y="22" width="468" height="468" rx="110" stroke="url(#rimGrad)" stroke-width="10"/>
+  <!-- Subtle FinTech Grid Arc -->
+  <path d="M96 368 C180 412, 332 412, 416 368" stroke="#38bdf8" stroke-opacity="0.28" stroke-width="14" stroke-linecap="round"/>
+  <!-- Bold Geometric 'U' -->
+  <path d="M124 148 V276 C124 326 160 360 210 360 C260 360 296 326 296 276 V148" stroke="#ffffff" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Interlocking Precision '4' + Upward Market Arrow Node -->
+  <path d="M364 148 V360 M364 284 H258 L338 148" stroke="url(#fourGrad)" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="364" cy="148" r="22" fill="#38bdf8"/>
+  <circle cx="364" cy="148" r="10" fill="#ffffff"/>
+</svg>

@@ -1,0 +1,24 @@
+# U4US Hub
+
+> U4US Hub is a free, zero-registration suite of 11 financial, business, tax, e-commerce, and developer web calculators that run 100% client-side in local browser memory across 162 ISO-4217 world currencies.
+
+All calculators execute locally in volatile browser RAM with zero server-side input logging. Every tool page includes its exact mathematical formula, input/output parameter definitions, operational limits, step-by-step worked example, and tool-specific FAQs.
+
+## Core Tools & Calculators
+
+- [Live Stock Market Terminal](https://www.u4ushub.com/live-stock-market-terminal): Multi-currency stock benchmark tracker (AAPL, NVDA, TSLA, MSFT, GOOGL, AMZN, Gold, S&P 500) and post-tax capital gains calculator across 162 currencies.
+- [Currency Converter (162 Countries)](https://www.u4ushub.com/currency-converter-160-countries): Instant bidirectional foreign exchange rate converter and cross-rate matrix for 162 world currencies.
+- [Live Crypto Price Tracker](https://www.u4ushub.com/live-crypto-price-tracker): Real-time cryptocurrency spot converter and portfolio calculator for BTC, ETH, SOL, BNB, XRP, DOGE, and ADA.
+- [E-Commerce & Dropshipping Profit Calculator](https://www.u4ushub.com/ecommerce-dropshipping-profit-calculator): Single-order net profit margin, COGS, shipping, gateway fee, CPA, and break-even ROAS calculator.
+- [GST / VAT Tax Calculator](https://www.u4ushub.com/gst-vat-tax-calculator): Inclusive (reverse tax extraction) and exclusive Goods and Services Tax / Value Added Tax calculator.
+- [Freelance Hourly Rate Calculator](https://www.u4ushub.com/freelance-hourly-rate-calculator): Minimum required billable hourly rate, 8-hour daily rate, and annual freelance income planner.
+- [YouTube RPM Earnings Calculator](https://www.u4ushub.com/youtube-rpm-earnings-calculator): Creator revenue estimator combining daily video views, baseline RPM, and monthly brand sponsorships.
+- [SIP & Compound Interest Calculator](https://www.u4ushub.com/sip-compound-interest-calculator): Systematic Investment Plan (annuity-due) and compound wealth growth projection tool.
+- [JSON Formatter & Validator](https://www.u4ushub.com/json-formatter-validator): Client-side RFC 8259 JSON syntax validator, pretty-printer, and minifier.
+- [Password & Passphrase Generator](https://www.u4ushub.com/password-passphrase-generator): W3C WebCrypto CSPRNG high-entropy password and 4-word diceware passphrase generator.
+- [Word & Reading Time Counter](https://www.u4ushub.com/word-character-reading-time-counter): Real-time word, UTF-16 character, sentence counter, 200-WPM reading time estimator, and case converter.
+
+## Documentation & Sitemaps
+
+- [XML Sitemap](https://www.u4ushub.com/sitemap.xml): Canonical URL index for all 12 application routes.
+- [Robots Policy](https://www.u4ushub.com/robots.txt): Crawler directives and sitemap reference.

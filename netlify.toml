@@ -1,0 +1,107 @@
+[build]
+  publish = "."
+
+# Netlify-specific domain canonicalization & clean URL rewrites (ignored by Cloudflare Pages, used by Netlify)
+[[redirects]]
+  from = "http://u4ushub.netlify.app/*"
+  to = "https://www.u4ushub.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://u4ushub.netlify.app/*"
+  to = "https://www.u4ushub.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://u4ushub.com/*"
+  to = "https://www.u4ushub.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://u4ushub.com/*"
+  to = "https://www.u4ushub.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/live-stock-market-terminal"
+  to = "/live-stock-market-terminal.html"
+  status = 200
+
+[[redirects]]
+  from = "/currency-converter-160-countries"
+  to = "/currency-converter-160-countries.html"
+  status = 200
+
+[[redirects]]
+  from = "/live-crypto-price-tracker"
+  to = "/live-crypto-price-tracker.html"
+  status = 200
+
+[[redirects]]
+  from = "/ecommerce-dropshipping-profit-calculator"
+  to = "/ecommerce-dropshipping-profit-calculator.html"
+  status = 200
+
+[[redirects]]
+  from = "/gst-vat-tax-calculator"
+  to = "/gst-vat-tax-calculator.html"
+  status = 200
+
+[[redirects]]
+  from = "/freelance-hourly-rate-calculator"
+  to = "/freelance-hourly-rate-calculator.html"
+  status = 200
+
+[[redirects]]
+  from = "/youtube-rpm-earnings-calculator"
+  to = "/youtube-rpm-earnings-calculator.html"
+  status = 200
+
+[[redirects]]
+  from = "/sip-compound-interest-calculator"
+  to = "/sip-compound-interest-calculator.html"
+  status = 200
+
+[[redirects]]
+  from = "/json-formatter-validator"
+  to = "/json-formatter-validator.html"
+  status = 200
+
+[[redirects]]
+  from = "/password-passphrase-generator"
+  to = "/password-passphrase-generator.html"
+  status = 200
+
+[[redirects]]
+  from = "/word-character-reading-time-counter"
+  to = "/word-character-reading-time-counter.html"
+  status = 200
+
+[[redirects]]
+  from = "/about"
+  to = "/about.html"
+  status = 200
+
+[[redirects]]
+  from = "/privacy-policy"
+  to = "/privacy-policy.html"
+  status = 200
+
+[[redirects]]
+  from = "/terms-of-service"
+  to = "/terms-of-service.html"
+  status = 200
+
+[[redirects]]
+  from = "/contact"
+  to = "/contact.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

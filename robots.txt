@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Google-Favicon
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://www.u4ushub.com/sitemap.xml
